@@ -1,2 +1,2 @@
 # web-dev-php
-Web development using PHP, HTML, CSS, SASS, Javascript and Both MYSQL and MongoDB
+An ecommerce site build using php, javascript, css/sass, bootstrap, jquery, and mysql
