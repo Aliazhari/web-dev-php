@@ -1,0 +1,24 @@
+.login {
+  width: 1100px !important;
+  height: 600px;
+
+  border: 1px solid #eee;
+  background-color:#eee;
+}
+.h2-login {
+  color: #333333;
+}
+.first-col {
+  border-right:1px solid #fff;
+}
+.login-btn {
+  width: 300px !important;
+  background-color: #cc0000 !important;
+}
+.signup-btn {
+  width: 300px !important;
+
+}
+.forgot-password a {
+  color: #777777 !important;
+}

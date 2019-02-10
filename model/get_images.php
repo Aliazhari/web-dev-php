@@ -18,7 +18,7 @@ class Main_Images_DB {
         $db = Database::getDB();
 
         try {
-        $query = 'SELECT * FROM main_images_tb
+        $query = 'SELECT * FROM main_images_tb WHERE active=true
                   ORDER BY id';
         $statement = $db->prepare($query);
         $statement->execute();
